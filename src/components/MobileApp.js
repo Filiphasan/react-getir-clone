@@ -1,11 +1,11 @@
 import React from 'react'
 
-const Header = () => {
+const MobileApp = () => {
     return (
         <div>
-            Header Sec
+            MobileApp
         </div>
     )
 }
 
-export default Header
+export default MobileApp

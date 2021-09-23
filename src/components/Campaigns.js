@@ -1,11 +1,11 @@
 import React from 'react'
 
-const Header = () => {
+const Campaigns = () => {
     return (
         <div>
-            Header Sec
+            Campaigns
         </div>
     )
 }
 
-export default Header
+export default Campaigns

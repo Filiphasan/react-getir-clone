@@ -1,11 +1,11 @@
 import React from 'react'
 
-const Header = () => {
+const Favorites = () => {
     return (
         <div>
-            Header Sec
+            Favorites
         </div>
     )
 }
 
-export default Header
+export default Favorites

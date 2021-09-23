@@ -1,11 +1,11 @@
 import React from 'react'
 
-const Header = () => {
+const Carousel = () => {
     return (
         <div>
-            Header Sec
+            Carousel
         </div>
     )
 }
 
-export default Header
+export default Carousel

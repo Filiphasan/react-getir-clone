@@ -1,11 +1,11 @@
 import React from 'react'
 
-const Header = () => {
+const Categories = () => {
     return (
         <div>
-            Header Sec
+            Categories
         </div>
     )
 }
 
-export default Header
+export default Categories
