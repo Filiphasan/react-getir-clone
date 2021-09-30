@@ -4,9 +4,11 @@ module.exports = {
   darkMode: false, // or 'media' or 'class'
   theme: {
     extend: {
-      backgroundColor: theme => ({
-        'brand-color': '#5d3ebc'
-      })
+      colors: {
+        'brand-color': '#5d3ebc',
+        'primary-brand-color': '#5d3ebc',
+        'secondary-brand-color': '#ffd300'
+      }
     },
   },
   variants: {

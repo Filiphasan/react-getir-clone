@@ -11,3 +11,6 @@
         @apply antialiased;
     }
 }
+.flag-select button{
+    @apply h-14 border-2 border-gray-200 text-sm rounded hover:border-primary-brand-color transition-colors bg-white
+}
